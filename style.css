@@ -1,0 +1,67 @@
+.body_backgorund {
+    background-image: url("bg6.jpg");
+    background-position: center ,fixed;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+    text-align: center;
+  }
+  h1
+  {
+      color: rgb(0, 0, 0); 
+      font-size: 35px;
+      font-family: 'Times New Roman', Times;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:double;
+  }
+
+  button {
+    background-color: #85d687;
+    border: solid, black;
+    border-style: double;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    padding: 10px 42px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+
+  span{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times;
+  }
+  
+
+  
+
+  p{
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times;
+  }
+
+  #abot h1{
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times;
+  }
+
+  #home img{
+    width: 100px;
+  }
+
+  a{
+    
+    font-size: 20px;
+    font-family: 'Times New Roman', Times;
+  }
